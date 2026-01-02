@@ -3728,7 +3728,7 @@ main.lght .ep-icon:after {
 .spec-hd {
 	float: left;
 	width: 100%;
-	text-align: right;
+	/* text-align: right; */
 	padding-left: 100px;
 }
 .container3 {
